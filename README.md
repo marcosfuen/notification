@@ -1,6 +1,6 @@
 # Incidencias
 
-_Aplicación web para tener un reguistros de las incidenacias _
+_Aplicación web para tener un reguistros de las incidenacias_
 
 ## Comenzando 🚀
 
