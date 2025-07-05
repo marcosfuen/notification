@@ -82,7 +82,7 @@ _Variables a modificar_
 * **EMAIL_HOST** = *Dirección IP del servido de correo*
 * **EMAIL_USE_TLS** = *Por defecto es True*
 * **EMAIL_PORT** = *Por defecto es 587 sino cámbialo*
-* **EMAIL_HOST_USER** = *Correo que mandará las incidencias ejemplo:(incidencias@reduc.edu.cu)*
+* **EMAIL_HOST_USER** = *Correo que mandará las incidencias ejemplo:(incidencias@mi.dominio.com)*
 * **EMAIL_HOST_PASSWORD** = *Password de ese correo*
 
 
