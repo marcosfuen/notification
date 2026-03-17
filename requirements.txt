@@ -14,7 +14,7 @@ parso>=0.4.0
 pluggy==0.9.0
 psycopg2==2.7.7
 psycopg2-binary==2.7.7
-pyasn1==0.4.5
+pyasn1==0.6.3
 pycodestyle==2.5.0
 pydocstyle==3.0.0
 pyflakes==2.1.0
